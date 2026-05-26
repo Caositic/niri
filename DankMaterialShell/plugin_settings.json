@@ -1,0 +1,24 @@
+{
+  "mediaControlsPlus": {
+    "enabled": false
+  },
+  "converter": {
+    "enabled": true
+  },
+  "calculator": {
+    "enabled": true,
+    "trigger": "="
+  },
+  "dankDiskUsage": {
+    "enabled": true
+  },
+  "dankQuickSearch": {
+    "enabled": true,
+    "defaultEngine": "google"
+  },
+  "volumeMixer": {
+    "enabled": true,
+    "pillIcon": "volume",
+    "pillDisplay": "both"
+  }
+}

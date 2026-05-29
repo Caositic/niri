@@ -5,3 +5,5 @@ https://github.com/Sergeydigl3/zapret-discord-youtube-linux
 sudo pacman -S --needed base-devel
 git clone https://aur.archlinux.org/paru.git
 makepkg -si
+
+https://motionbgs.com/purple-hair-anime-girl

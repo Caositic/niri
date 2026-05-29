@@ -6,3 +6,4 @@ steam
 dsearch
 qalculate
 sober
+mpvpaper
